@@ -1,5 +1,5 @@
 {
 	"name": "now-sh-try",
 	"alias": "nozomoto-now-sh-try",
-	"builds": [{ "src": "handler.go", "use": "@now/go" }]
+	"builds": [{ "src": "index.go", "use": "@now/go" }]
 }
